@@ -17,7 +17,7 @@ settings:
 command:
   #메인 명령어의 이름
   #원하는대로 수정할 수 있습니다
-  name: "inventorymonitor"
+  name: "invensee"
 
   #메인 명령어의 별칭들
   #원하는대로 추가, 수정, 삭제할 수 있습니다
